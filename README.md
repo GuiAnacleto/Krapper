@@ -47,20 +47,32 @@ After This you Can Run the Krapper!! 👍
 
 ## Another Installation Option
 
-If do not want lead with python librarys, you can download the `env` that i have already created, to receive this folder and all code files, just run inside some folder:
+If do not want lead with python librarys, you can install just one library in your main computer:
+
+```bash
+$ pip install virtualenv
+```
+
+After install this library you have to clone this repository.
 
 ```bash
 $ git clone https://github.com/GuiAnacleto/Krapper
 ```
 
-After that, go to the folder that you clone the repository, and send above commands:
+So, go to your project folder and run:
+
+```bash
+$ virtualenv env
+```
+
+This will generate an folder named `env`, this folder simule your main machine. After the instalation `start` de virtual ambient executing the command above:
 
 ```bash
 $ cd env\Scripts
 $ .\activate
 ```
 
-This command will `activate` the virtual ambient that you have previously downloaded.
+One time that the virtual ambient is activate, you have just to install all librarys that have been passed in step one...
 One time that the virtual ambient is activated, you can run python file in your TextEditor.
 
 To do this, execute:
