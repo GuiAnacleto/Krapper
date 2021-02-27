@@ -11,6 +11,8 @@ Krapper is a program that can enter in TikTok application and Scrapp User/Video 
 - Input any `Hashtag` and watch the magic
 - Select `Trending` option and take all trending videos in one shot
 - Choose the `Amount` results you need to see.
+- Stupidly [`easy to use`](https://github.com/GuiAnacleto/Krapper#usage)
+- Easy installation necessary - just use the [`step by step`](https://github.com/GuiAnacleto/Krapper#installation).
 
 # Installation
 
@@ -70,3 +72,41 @@ $ python main.py
 ```
 
 After This you Can Run the Krapper!! 👍
+
+# Usage
+
+### Buttons:
+| Buttom | Function |
+| ------ | ------ |
+| SearchTerm | In this label you insert the hashtag. |
+| Hashtag | When this radio button is true the program will consider the serach term. |
+| Trending | This radio button do not consider the searchterm for results. |
+| Browse | Enable file dialog to select folder destiny. |
+| Search | Start the TikTok Scrapping |
+| +10 / -10 | Plus 10 or Sub 10 of the quantity |
+
+### Functionalities:
+
+To use the Krapper you just to select if you want an hashtag or trending search in radio buttons. If you select `HASHTAG`, then input the term that you want to be your hashtag, after this, click in `BROWSE` and select the `DESTINATION` folder. Input the name of the archive in correct label. So finally click in `SEARCH`. Wait for the `FINISH` pop up. 
+
+![Capturar](https://user-images.githubusercontent.com/30503293/109402741-24a6b780-7937-11eb-8d4a-32af48f325ab.PNG)
+
+
+
+And here you have your result!! Enjoy 👍
+
+## Contributing
+
+#### Bug Reports & Feature Requests
+
+Please use the [`issue tracker`](https://github.com/GuiAnacleto/Krapper/issues) to report any bugs or file feature requests.
+
+#### Developing
+
+PRs are welcome. To begin developing, do this:
+
+```bash
+$ git clone git@github.com:GuiAnacleto/Krapper.git
+$ cd Code/
+$ python main.py
+```
