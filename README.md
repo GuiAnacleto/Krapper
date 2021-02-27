@@ -1,4 +1,4 @@
-![Krapper](https://user-images.githubusercontent.com/30503293/109400148-ce7d4880-7925-11eb-8833-1e9c6e9b8b7b.png)
+![Krapper](https://user-images.githubusercontent.com/30503293/109403236-9f250680-793a-11eb-9c64-6ef29ca5d6ad.png)
 
 ![Build Status](https://img.shields.io/github/downloads/GuiAnacleto/Krapper/total) ![Build Status](https://img.shields.io/github/v/release/GuiAnacleto/Krapper)
 
