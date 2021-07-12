@@ -4,7 +4,7 @@
 
 # Krapper
 
-Krapper is a program that can enter in TikTok application and Scrapp User/Video Data in a csv. Common used to marketin analytics.
+The aim of this project is to facilitate the extraction of data from tiktok. The "Krapper" application is capable of generating a csv containing the information extracted from the specified hashtags.
 
 # Features
 
