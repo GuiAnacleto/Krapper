@@ -122,3 +122,6 @@ $ git clone git@github.com:GuiAnacleto/Krapper.git
 $ cd Code/
 $ python main.py
 ```
+<h3 align="left">Buy Me a Coffe ☕:</h3>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/guianacleto)
