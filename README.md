@@ -1,4 +1,4 @@
-![Krapper](https://user-images.githubusercontent.com/30503293/109403244-bebc2f00-793a-11eb-821b-63040cbea9f8.png)
+![Krapper](https://raw.githubusercontent.com/GuiAnacleto/Krapper/main/README/Capa.gif)
 
 ![Build Status](https://img.shields.io/github/downloads/GuiAnacleto/Krapper/total) ![Build Status](https://img.shields.io/github/v/release/GuiAnacleto/Krapper)
 
@@ -88,22 +88,21 @@ After This you Can Run the Krapper!! 👍
 # Usage
 
 ### Buttons:
-| Buttom | Function |
-| ------ | ------ |
-| SearchTerm | In this label you insert the hashtag. |
-| Hashtag | When this radio button is true the program will consider the serach term. |
-| Trending | This radio button do not consider the searchterm for results. |
-| Browse | Enable file dialog to select folder destiny. |
-| Search | Start the TikTok Scrapping |
-| +10 / -10 | Plus 10 or Sub 10 of the quantity |
+
+| Buttom     | Function                                                                  |
+| ---------- | ------------------------------------------------------------------------- |
+| SearchTerm | In this label you insert the hashtag.                                     |
+| Hashtag    | When this radio button is true the program will consider the serach term. |
+| Trending   | This radio button do not consider the searchterm for results.             |
+| Browse     | Enable file dialog to select folder destiny.                              |
+| Search     | Start the TikTok Scrapping                                                |
+| +10 / -10  | Plus 10 or Sub 10 of the quantity                                         |
 
 ### Functionalities:
 
-To use the Krapper you just to select if you want an hashtag or trending search in radio buttons. If you select `HASHTAG`, then input the term that you want to be your hashtag, after this, click in `BROWSE` and select the `DESTINATION` folder. Input the name of the archive in correct label. So finally click in `SEARCH`. Wait for the `FINISH` pop up. 
+To use the Krapper you just to select if you want an hashtag or trending search in radio buttons. If you select `HASHTAG`, then input the term that you want to be your hashtag, after this, click in `BROWSE` and select the `DESTINATION` folder. Input the name of the archive in correct label. So finally click in `SEARCH`. Wait for the `FINISH` pop up.
 
 ![Capturar](https://user-images.githubusercontent.com/30503293/109402741-24a6b780-7937-11eb-8d4a-32af48f325ab.PNG)
-
-
 
 And here you have your result!! Enjoy 👍
 
@@ -122,6 +121,7 @@ $ git clone git@github.com:GuiAnacleto/Krapper.git
 $ cd Code/
 $ python main.py
 ```
+
 <h3 align="left">Buy Me a Coffe ☕:</h3>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/guianacleto)
