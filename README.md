@@ -1,4 +1,4 @@
-![Krapper](https://raw.githubusercontent.com/GuiAnacleto/Krapper/main/README/Capa.gif)
+![Krapper](https://raw.githubusercontent.com/GuiAnacleto/Krapper/main/README/Capa.gif?token=GHSAT0AAAAAABQWZOYTYFWUDFQZ7NV4GYG4YPHG3DA)
 
 ![Build Status](https://img.shields.io/github/downloads/GuiAnacleto/Krapper/total) ![Build Status](https://img.shields.io/github/v/release/GuiAnacleto/Krapper)
 
